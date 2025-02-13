@@ -36,10 +36,9 @@ Users should be able to:
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 
-
 ## Author
 
-- Website - [Aziz-portofolio](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Linkedin - [abdiaziz-omar](https://www.twitter.com/yourusername)
+- Website - [Aziz-portfolio](https://0paziz.github.io/Aziz-portfolio/index.html)
+- Frontend Mentor - [@0paziz](https://www.frontendmentor.io/profile/@0paziz)
+- Linkedin - [abdiaziz-omar](https://www.linkedin.com/in/abdiaziz-omar-876b06256/)
 
